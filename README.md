@@ -1,4 +1,4 @@
-# Hi, I'm theSen
+# Hi, Guys、I'm theSen.
 **Senior Frontend Engineer 💻**
 
 ## 💡 Development Philosophy
